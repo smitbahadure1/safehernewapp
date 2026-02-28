@@ -50,13 +50,12 @@
     "experiments": {
       "typedRoutes": true
     },
-    "owner": "smit96",
     "extra": {
       "router": {
         "origin": "https://rork.com/"
       },
       "eas": {
-        "projectId": "7f5acf3e-8c19-4ab9-8835-75c34db0fa46"
+        "projectId": "afdd2dcf-fabe-43c3-9605-1ce7ca9d4957"
       }
     }
   }
