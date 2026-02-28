@@ -1,0 +1,27 @@
+export const Colors = {
+  background: '#0A0A0F',
+  surface: '#14141F',
+  surfaceLight: '#1E1E2E',
+  surfaceBorder: '#2A2A3C',
+  primary: '#FF4D6A',
+  primaryDark: '#CC3D55',
+  primaryLight: '#FF6B84',
+  accent: '#FF8C42',
+  success: '#34D399',
+  warning: '#FBBF24',
+  danger: '#EF4444',
+  text: '#F8F8FC',
+  textSecondary: '#9CA3AF',
+  textMuted: '#6B7280',
+  white: '#FFFFFF',
+  black: '#000000',
+  overlay: 'rgba(0, 0, 0, 0.7)',
+  cardGradientStart: '#1A1A2E',
+  cardGradientEnd: '#16213E',
+  sosRed: '#FF2D55',
+  sosRedDark: '#D9234A',
+  safeGreen: '#10B981',
+  timerOrange: '#F59E0B',
+};
+
+export default Colors;
